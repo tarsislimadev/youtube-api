@@ -4,6 +4,6 @@
 
 path="${1}"
 queries="${2}"
-apikey="apikey=${APIKEY}"
+apikey="key=${APIKEY}"
 
-curl -sL "http://api.musixmatch.com/ws/1.1/${path}?${apikey}&${queries}"
+curl -sL "https://youtube.googleapis.com/youtube/v3/${path}?${apikey}&${queries}"
