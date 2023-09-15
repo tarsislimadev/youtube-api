@@ -1,6 +1,6 @@
-# Youtube API
+# YouTube API
 
-From Youtube API to local file system
+YouTube Data API
 
 ## .env file
 
