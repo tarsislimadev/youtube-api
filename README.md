@@ -1,15 +1,21 @@
 # [YouTube API](https://developers.google.com/youtube/v3)
 
-YouTube Data API
+To get data from YouTube Data API
 
-## .env file
+## how to install
+
+### .env file
 
 ```
-DATABASE=~/youtube
-APIKEY=
+DATABASE=./data
 PROJECT_ID=
+APIKEY=
 ```
 
-## License
+## how to use
+
+...
+
+## license
 
 [MIT](./LICENSE)
