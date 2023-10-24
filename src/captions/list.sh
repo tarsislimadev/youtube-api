@@ -10,7 +10,7 @@ VIDEO_ID="${1}"
 
 # runner
 
-RESP=$( bash curl.sh "${METHOD}" "videoId=${VIDEO_ID}" )
+RESP=$( bash get.sh "${METHOD}" "videoId=${VIDEO_ID}" )
 
 # outputs
 

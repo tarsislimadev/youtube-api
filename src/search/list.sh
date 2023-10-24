@@ -10,7 +10,7 @@ Q="${1}"
 
 # runner
 
-RESP=$( bash curl.sh "${METHOD}" "q=${Q}" )
+RESP=$( bash get.sh "${METHOD}" "q=${Q}" )
 
 # outputs
 
